@@ -1,5 +1,5 @@
 body {
-  background-color: blueviolet;
+  background-color: violet;
 }
 .fill {
   background-image: url("http://source.unsplash.com/random/150x150");
@@ -16,7 +16,7 @@ body {
   height: 160px;
   width: 160px;
   margin: 10px;
-  border: 3px salmon solid;
+  border: 3px black solid;
   background-color: snow;
 }
 .hold {
@@ -28,4 +28,10 @@ body {
 }
 .invisible {
   display: none;
+}
+
+.header {
+  padding: 5px;
+  text-align: center;
+  text-transform: uppercase;
 }
